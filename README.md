@@ -1,6 +1,6 @@
 # QuTech Quantum Network Explorer QKD Challenge
 
-Welcome to QuTech's [Quantum Network Explorer](https://www.quantum-network.com/)
+Welcome to QuTech's [Quantum Network Explorer](https://www.quantum-network.com)
 QKD challenge!
 
 In this challenge you will have the possibility to implement your own QKD
